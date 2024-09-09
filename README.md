@@ -15,4 +15,5 @@ Project 03 : Car Price Prediction
 
  * all comments and problem solving approach are written as markdown text in Project-03.ipynb
  * used linear regression model from sklearn for price prediction
- * the problem of encoding features is discussed rigorously 
+ * the problem of encoding features is discussed rigorously
+ * the linkedin post I created about this project is available in [CarPricePrediction](https://www.linkedin.com/posts/abhinaya-a-s-351400291_hi-all-have-a-look-at-the-3rd-project-i-activity-7239047935924043777-ey6h?utm_source=share&utm_medium=member_desktop)
